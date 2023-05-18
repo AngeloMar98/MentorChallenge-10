@@ -65,7 +65,7 @@ a:visited {
 }
 
 .main-page-grid {
-  grid-template-columns: auto 32rem;
+  grid-template-columns: auto 36rem;
   gap: 2.4rem;
 }
 
@@ -113,6 +113,7 @@ header {
   display: flex;
   flex-direction: column;
   gap: 2.4rem;
+  line-height: 1.6;
 }
 
 .read-more-btn {
